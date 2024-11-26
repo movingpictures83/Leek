@@ -1,0 +1,2 @@
+Prefix plugins/Leek/example/
+Plugin Leek inputfile parameters.txt outputfile leek.csv
